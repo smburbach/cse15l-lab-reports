@@ -22,5 +22,5 @@ I have one dog:
 `This is where you would put an inline code`
 
 ```
-#This is where you would put a block of code
+This is where you would put a block of code
 ```
