@@ -8,11 +8,11 @@
 
 Here is the [Link](https://github.com/smburbach/cse15l-lab-reports) to my CSE 15L github page.
 
-> A picture of a cat: 
+> This is a picture of a cat: 
 
 ![Image](https://user-images.githubusercontent.com/106550373/192122225-2c6964ed-c3b0-4bbc-ab70-0e0f32609275.jpeg)
 
-I have three cats:
+I have three cats!
 * Dyna
 * Sandy
 * Sky
