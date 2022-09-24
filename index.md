@@ -19,8 +19,8 @@ I have three cats:
 I have one dog:
 1. Chase
 
-'This is where you would put an inline code'
+`This is where you would put an inline code`
 
-'''
+```
 #This is where you would put a block of code
-'''
+```
