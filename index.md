@@ -10,7 +10,7 @@ Here is the [Link](https://github.com/smburbach/cse15l-lab-reports) to my CSE 15
 
 > A picture of a cat: 
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcat%2F&psig=AOvVaw3llmStLbAkcEuTVg72LfVt&ust=1664147265886000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPi-tubFrvoCFQAAAAAdAAAAABAE](https://images.pexels.com/photos/20787/pexels-photo.jpg?cs=srgb&dl=pexels-krysten-merriman-20787.jpg&fm=jpg)
+![Image]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcat%2F&psig=AOvVaw3llmStLbAkcEuTVg72LfVt&ust=1664147265886000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPi-tubFrvoCFQAAAAAdAAAAABAE](https://images.pexels.com/photos/20787/pexels-photo.jpg?cs=srgb&dl=pexels-krysten-merriman-20787.jpg&fm=jpg](https://static01.nyt.com/images/2021/09/14/science/07CAT-STRIPES/07CAT-STRIPES-mediumSquareAt3X-v2.jpg))
 
 I have three cats:
 * Dyna
