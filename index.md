@@ -1,24 +1,23 @@
 # Hello!
-## My name is Sarah.
+## My name is Sarah Burbach
 ---
 
 *This line is written in italics*
 
-**This line is bolded**
+**Lab Report Links**:
+* [Lab Report 1](https://smburbach.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
 
-Here is the [Link](https://github.com/smburbach/cse15l-lab-reports) to my CSE 15L github page.
+
 
 > This is a picture of a cat: 
 
 ![Image](https://user-images.githubusercontent.com/106550373/192122225-2c6964ed-c3b0-4bbc-ab70-0e0f32609275.jpeg)
 
 I have three cats!
-* Dyna
-* Sandy
-* Sky
+1. Dyna
+2. Sandy
+3. Sky
 
-I have one dog:
-1. Chase
 
 `This is where you would put an inline code`
 
