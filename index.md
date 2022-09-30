@@ -23,3 +23,4 @@
 ```
 This is where you would put a block of code
 ```
+![Image Test](/cse15l-lab-reports/lab-reports/lab-report-images/cat-image.png)
