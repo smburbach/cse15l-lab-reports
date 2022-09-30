@@ -1,7 +1,7 @@
 # Lab Report 1
 Sarah Burbach
 
-Please not that this tutorial and the screenshots are assuming that you have a mac computer. If your computer is windows, there may be a few extra/different steps you need to take!
+Please note that this tutorial and the screenshots are assuming that you have a mac computer. If your computer is windows, there may be a few extra/different steps you need to take!
 
 ## Installing VScode
 First, you need to install VScode! Go to [this website](https://code.visualstudio.com/) and install the correct version for your specific computer and operating system. 
