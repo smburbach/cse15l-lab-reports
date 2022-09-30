@@ -4,7 +4,7 @@
 
 ## Lab Report Links
 * [Week 0 Lab](https://smburbach.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
-* [Lab Report 1]()
+* [Lab Report 1](https://smburbach.github.io/cse15l-lab-reports/lab-reports/lab-report-1)
 
 ---
 ## Testing Some Markdown Features
