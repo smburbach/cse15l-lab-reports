@@ -78,5 +78,5 @@ Now that we've learned all these skills, we can attempt to optimize the process 
 ![optimization-attempt](/lab-report-images/optimization.png)
 
 In this case, I am struggling to understand how it is possible to get such a low number of keystrokes for a few reasons:
-* First, we need to login to the ssh to run commands on the remote server, and the username to do this 'cs15lfa22ac@ieng.ucsd.edu' is already more than 10 keystrokes. There is no shortcut that I know of to avoid typing this.
+* First, we need to login to the ssh to run commands on the remote server, and the username to do this 'cs15lfa22ac@ieng.ucsd.edu' is already more than 10 keystrokes. There is no shortcut that I know of to avoid typing this. I think that maybe we could use the up arrow to access the previous command (and have the previous command be just the username), but I don't understand how this saves much time overall becuase you still have to type the username.
 * Second, I am not sure how to copy a file to a remote server without the use of the scp command. I was thinking maybe we could use the cp command once already logged into the remote server, but couldn't figure out how (if you even can) to access the local computers directory from the remote server. 
