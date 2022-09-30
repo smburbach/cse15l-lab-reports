@@ -9,6 +9,7 @@ First, you need to install VScode! Go to [this website](https://code.visualstudi
 Once it has been sucessfully installed, it should look something like this: 
 
 ![VScode-Image](/lab-reports/lab-report-images/vscode-open.png)
+
 However, yours won't have the 'Recent' section that is shown in this image. My VScode has this section becuase I've opened folders and files previously using VScode.
 
 ## Remotely Connecting
@@ -24,6 +25,7 @@ The first time you connect to this server, you will be prompted to verify the au
 Then you will be prompted to enter your password. Note that when you are typing your password, nothing will appear in the terminal (ie. it will look like you aren't typing anything) -- this is normal! If you are having trouble with your password, you can reset your password by following the instructions in [this doc](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit).
 
 This is what a sucessful login looks like:
+
 ![Successful-Connect-Image](/lab-reports/lab-report-images/successful-connection.png)
 
 ## Trying Commands
