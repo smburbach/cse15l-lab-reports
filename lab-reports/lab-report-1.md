@@ -60,7 +60,7 @@ First, you need to create a key on local computer. First, run the command `ssh-k
 
 ![local-key](/lab-report-images/local-key.png)
 
-Next, log into the remote computer and enter the command `mkdir .ssh`. 
+Next, log into the remote computer and enter the command `mkdir .ssh`. The `mkdir` command will create a new directory called '.ssh', where we will transfer the key file to in the next step.
 
 ![remote-mkdir](/lab-report-images/remote-mkdir.png)
 
