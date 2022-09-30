@@ -20,7 +20,7 @@ First, you need to find your course specific username. My username for this cour
 Now, you should open a new terminal (File -> Terminal -> New Terminal), then type the command:
 `ssh cs15fa22ac@ieng6.ucsd.edu`
 
-The first time you connect to this server, you will be prompted to verify the authenticity of the host. You should type 'yes' in response to this prompt.
+The first time you connect to this server, you will be prompted to verify the authenticity of the host. You should type 'yes' in response to this prompt. This does not appear in the screenshot provided below, becuase the login showed is not my first login. 
 
 Then you will be prompted to enter your password. Note that when you are typing your password, nothing will appear in the terminal (ie. it will look like you aren't typing anything) -- this is normal! If you are having trouble with your password, you can reset your password by following the instructions in [this doc](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit).
 
@@ -31,32 +31,32 @@ This is what a sucessful login looks like:
 ## Trying Commands
 Now that you are connected, you can test out some commands on the remote computer! 
 
-One example of a command you can try is `ls`, which will list all of the files and folders in your current working directory. For example, here is the result I recieved when typing the command for the first time:
+One example of a command you can try is `ls`, which will list all of the files and folders in your current working directory. For example, here is the result I recieved when typing the command for the first time on the remote server:
 
 ![ls-image](/lab-report-images/ls-command.png)
 
-Another command you can try is the `cat` command, which prints the contents of a file. Here is an example of me running this command on the remote computer:
+Another command you can try is the `cat` command, followed by the path to a file. This will print the contents of that file in the terminal. Here is an example of me running this command on the remote computer:
 
 ![cat-image](/lab-report-images/cat-image.png)
 
 ## Moving Files with scp
-You can also move files to a remote computer with the command `scp`.
+Now that you've tried out a few commands, you can also also try moving files to a remote computer with the command `scp`.
 
 First, you want to make a file (in this case, the file was called WhereAmI.java) and save it locally on your computer. Compile and run in on your computer. This is what this should look like:
 
 ![whereami-image](/lab-report-images/whereami-image.png)
 
-Then type the command `scp WhereAmI.java cs15lfa22ac@ieng6.ucsd.edu:~/`, remembering to replace my course username with your own. This is what a sucessful transfer looks like.
+Then type the command `scp WhereAmI.java cs15lfa22ac@ieng6.ucsd.edu:~/`, remembering to replace my course username with your own. This is what a sucessful transfer looks like:
 
 ![whereami-transfer](/lab-report-images/whereami-transfer.png)
 
-Now you can log into your ssh account (as described previous) and use the compand `ls' to confirm that the file has been transfered. Then you can compile and run the file on the remote computer. This will look something like this:
+Now you can log into your ssh account (as described previous) and use the compand `ls` to confirm that the file has been transfered. Then you can compile and run the file on the remote computer. This will look something like this:
 ![whereami-remote](/lab-reports/lab-report-images/whereami-remote.png)
 
 ## SSH Keys
 Now, you can create a key to allow you to login to your ssh account without entering the password every time. 
 
-First, you need to create a key on local computer. First, run the command `ssh-keygen' on your local computer. You will need to set the folder for the key to save. Then, when prompted for the passphrase, leave it blank and just press enter. This will generate a result like this:
+First, you need to create a key on local computer. First, run the command `ssh-keygen` on your local computer. You will need to set the folder for the key to save. Then, when prompted for the passphrase, leave it blank and just press enter. This will generate a result like this:
 
 ![local-key](/lab-report-images/local-key.png)
 
