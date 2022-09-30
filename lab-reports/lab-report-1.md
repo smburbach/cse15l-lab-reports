@@ -8,7 +8,7 @@ First, you need to install VScode! Go to [this website](https://code.visualstudi
 
 Once it has been sucessfully installed, it should look something like this: 
 
-![VScode-Image](/lab-reports/lab-report-images/vscode-open.png)
+![VScode-Image](/lab-report-images/vscode-open.png)
 
 However, yours won't have the 'Recent' section that is shown in this image. My VScode has this section becuase I've opened folders and files previously using VScode.
 
