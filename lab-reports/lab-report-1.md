@@ -10,7 +10,7 @@ Once it has been sucessfully installed, it should look something like this:
 
 ![VScode-Image](/lab-report-images/vscode-open.png)
 
-However, yours won't have the 'Recent' section that is shown in this image. My VScode has this section becuase I've opened folders and files previously using VScode.
+However, you should know that yours won't have the 'Recent' section that is shown in this image. My VScode has this section becuase I've opened folders and files previously using VScode and this is not the first time I've opened the application!
 
 ## Remotely Connecting
 The next step is to remotely connect to a UCSD computer.
