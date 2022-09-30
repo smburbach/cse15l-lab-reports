@@ -26,7 +26,7 @@ Then you will be prompted to enter your password. Note that when you are typing 
 
 This is what a sucessful login looks like:
 
-![Successful-Connect-Image](/lab-reports/lab-report-images/successful-connection.png)
+![Successful-Connect-Image](./lab-reports/lab-report-images/successful-connection.png)
 
 ## Trying Commands
 Now that you are connected, you can test out some commands on the remote computer! 
