@@ -51,7 +51,8 @@ Then type the command `scp WhereAmI.java cs15lfa22ac@ieng6.ucsd.edu:~/`, remembe
 ![whereami-transfer](/lab-report-images/whereami-transfer.png)
 
 Now you can log into your ssh account (as described previous) and use the compand `ls` to confirm that the file has been transfered. Then you can compile and run the file on the remote computer. This will look something like this:
-![whereami-remote](/lab-reports/lab-report-images/whereami-remote.png)
+
+![whereami-remote](lab-report-images/whereami-remote.png)
 
 ## SSH Keys
 Now, you can create a key to allow you to login to your ssh account without entering the password every time. 
