@@ -82,6 +82,7 @@ The contents of this query are stored in the String[] parameters, divided into t
 
 In this specific example, the string being added is "Hello!". Therefore, the contents of parameters was ["s", "Hello!"]. The second element of this array will be added to the list, then a success statement will be printed on the webpage using the toPrint string.
 
+
 **Screenshot 2: After Adding**
 ![Screenshot2](lab-report-images/lr2-sc2-afteradd.png)
 This screenshot shows what is displayed on the webpage (after strings are added to the list) when you go to the domain of the website. 
@@ -132,16 +133,19 @@ Any strings that contain the "!" are added to the queryToPrint string, which is 
 **List Methods: Filter Method**
 
 *Failure-Inducing Input*
+
 ![Input](lab-report-images/lr2-listinput.png)
 
 * As shown in the photo above, the failure inducing input is a list of three strings {"thisisalongstring", "apple", "test}.
 
 *Symptom*
+
 ![Symptom](lab-report-images/lr2-listsymptom.png)
 
 * The symptom is order of the elements in the array being incorrect -- the method is supposed to add elements that pass the stringchecker to the new array in the same order that they were in the original array. 
 
 *Bug*
+
 ![Bug](lab-report-images/lr2-listbug.png)
 
 * The bug causing this symptom is in the line "result.add(0,s)", which adds the new string to the first index of the list. This bug can be fixed by changing this line to read "result.add(s)", as shown below:
