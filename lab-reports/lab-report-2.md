@@ -1,5 +1,7 @@
 # Lab Report 2
 
+Sarah Burbach
+
 ## Part 1
 
 **Search Engine Code:**
