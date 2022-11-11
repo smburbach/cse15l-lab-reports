@@ -12,7 +12,6 @@ The shortest sequence we came up with was:
 **Screenshots for each step in the sequence**
 
 Upon first opening vim, this is what the window looks like:
-
 ![Start](lab-report-images/lr4-start.png)
 
 
@@ -26,8 +25,10 @@ Upon first opening vim, this is what the window looks like:
 ![Replace](lab-report-images/lr4-replace.png)
 
 `n.n.`: `n` finds the next instance of the search term and `.` repeats the previous action (in this case ce and base<esc>, to replace 'start' with 'base')
-![Replace2](lab-report-images/lr4-replace-all.png)
+![Replace](lab-report-images/lr4-replace-all.png)
+  
 ![Replace-all-1](lab-report-images/lr4-replace-all.png)
+  
 ![Replace-all-2](lab-report-images/lr4-replace-all2.png)
 
 `:w<Enter>`: saves the changes to the file
