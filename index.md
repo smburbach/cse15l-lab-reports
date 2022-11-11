@@ -7,6 +7,7 @@
 * [Lab Report 1](https://smburbach.github.io/cse15l-lab-reports/lab-reports/lab-report-1)
 * [Lab Report 2](https://smburbach.github.io/cse15l-lab-reports/lab-reports/lab-report-2)
 * [Lab Report 3](https://smburbach.github.io/cse15l-lab-reports/lab-reports/lab-report-3)
+* [Lab Report 4](https://smburbach.github.io/cse15l-lab-reports/lab-reports/lab-report-4)
 
 ---
 ## Testing Some Markdown Features
