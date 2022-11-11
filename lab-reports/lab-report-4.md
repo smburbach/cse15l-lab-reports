@@ -9,7 +9,7 @@ Sarah Burbach
 The shortest sequence we came up with was:
 `/start<enter>cebase<esc>n.n.:w<enter>`
 
-Screenshots for each step in the sequence:
+**Screenshots for each step in the sequence**
 
 Upon first opening vim, this is what the window looks like:
 
@@ -17,25 +17,19 @@ Upon first opening vim, this is what the window looks like:
 
 
 `/start<enter>`: searches for the term 'start' and moves cursor to the first instance of 'start' in the file
-
 ![Search](lab-report-images/lr4-search.png)
 
 `ce`: enters insert mode and deletes the word 'start'
-
 ![ce](lab-report-images/lr4-ce.png)
 
 `base<esc>`: still in insert mode from the previous command, type the word 'base' then return to normal mode by pressing escape
-
 ![Replace](lab-report-images/lr4-replace.png)
 
 `n.n.`: `n` finds the next instance of the search term and `.` repeats the previous action (in this case ce and base<esc>, to replace 'start' with 'base')
-
 ![Replace all 1](lab-report-images/lr4-replace-all.png)
-
 ![Replace all 2](lab-report-images/lr4-replace-all2.png)
 
 `:w<Enter>`: saves the changes to the file
-
 ![Save](lab-report-images/lr4-save.png)
 
 ## Part 2
