@@ -125,10 +125,12 @@ exit
 
 `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`
 * This command has no standard output. However, the standard error is: 
+        ```
         ListExamples.java:15: error: ';' expected
                 result.add(0, s)
                                 ^
         1 error
+        ```
 * The standard error occurs becuase the ListExamples.java file is missing a semicolon. This error causes the command to produce a non-zero exit code.
 
 `if [[ $? -eq 0 ]]`
